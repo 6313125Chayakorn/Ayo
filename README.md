@@ -2,7 +2,3 @@
 
 Ayoyoo
 dwqdwsad
-
-# Oya
-
-**Oyooyaa!**
